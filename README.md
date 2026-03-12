@@ -3,6 +3,8 @@
 
 ## Descrição
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ffJVC8lGpB3QHd8Z0QfpwBUpMryoC4tw?usp=sharing)
+
 Este projeto implementa uma versão prática inspirada no artigo **Automated Data Slicing for Model Validation: A Big Data – AI Integration Approach** para análise de subconjuntos interpretáveis (slices) em uma base de fraudes de cartão de crédito.
 
 O objetivo é identificar slices dos dados que apresentem comportamento problemático do modelo, combinando desempenho preditivo e fairness.
