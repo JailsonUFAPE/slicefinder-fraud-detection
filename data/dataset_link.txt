@@ -1,1 +1,9 @@
-https://www.kaggle.com/datasets/jailsonrodrigues/fraudtest
+Dataset used in this experiment is available on Kaggle.
+
+Download link:
+https://www.kaggle.com/datasets/jailson/fraudtest
+
+Instructions:
+1. Download the dataset.
+2. Extract the files.
+3. Place them in this folder.
